@@ -1,4 +1,4 @@
-# 6th place solution for RSNA Screening Mammography Breast Cancer Detection Challenge
+# 5th place solution for RSNA Screening Mammography Breast Cancer Detection Challenge
 
 Repository to accompany with discussion forum post (https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/391979).
 
